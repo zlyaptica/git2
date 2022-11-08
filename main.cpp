@@ -16,7 +16,7 @@ int main()
     switch(choose)
     {
         case 1: cout << "develop 1";
-        case 2: cout << "develop 2";
+        case 2: Sub(100,31);
         case 3: cout << "develop 3";
         case 4: cout << "develop 4";
     }
